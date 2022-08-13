@@ -1,3 +1,4 @@
+let response = fetch("  http://localhost:3000/toys");
 let addToy = false;
 
 document.addEventListener("DOMContentLoaded", () => {
